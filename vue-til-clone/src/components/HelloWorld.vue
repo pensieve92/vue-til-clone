@@ -95,6 +95,7 @@
 </template>
 
 <script>
+const a = 1;
 export default {
   name: "HelloWorld",
   props: {
