@@ -9,6 +9,7 @@
 - Material Icon Theme : EXPLORER 파일 아이콘 테마
 - ESLint : 잘못된 코드 스타일로 인해 에러가 나지 않게 코드 문법을 잡아주는 문법 검사기
 - Prettier - Code formatter : 코드 스타일을 정리해주는 도구
+- Turbo Console Log : console.log() 끝판왕 도구
 
 플러그인 셋팅 단축키  
 `[ctrl] + [shift] + [p]`  
